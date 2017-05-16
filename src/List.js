@@ -5,10 +5,9 @@ export const List = (props) => {
     list
   } = props
 
-  console.log(list)
   return (
-    <h1>hi</h1>
+    <h1>This is the List component</h1>
   )
 }
 
-export default List
+export default List;
